@@ -4,6 +4,12 @@ qcgc-pypy-benchmarks
 A collection of benchmarks to measure the performance of pypy compiled with qcgc
 (or every other python implementation).
 
+Benchmarks
+----------
+| File     | Description        |
+| -------- | ------------------ |
+| nbody.py | The n-body problem |
+
 License
 -------
 **Except where stated otherwise** (e.g. in the file header), all files are

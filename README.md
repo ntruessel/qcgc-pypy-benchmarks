@@ -6,9 +6,10 @@ A collection of benchmarks to measure the performance of pypy compiled with qcgc
 
 Benchmarks
 ----------
-| File     | Description        |
-| -------- | ------------------ |
-| nbody.py | The n-body problem |
+| File     | Description                                  |
+| -------- | -------------------------------------------- |
+| nbody.py | The n-body problem                           |
+| splay.py | Python version of the Octane Splay benchmark |
 
 License
 -------

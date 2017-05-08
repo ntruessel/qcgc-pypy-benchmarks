@@ -7,7 +7,8 @@ import json
 import subprocess
 
 benchmarks = {
-        'nbody': 'nbody.py'
+        'nbody': 'nbody.py',
+        'splay': 'splay.py'
         }
 
 
